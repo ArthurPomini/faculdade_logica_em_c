@@ -10,7 +10,7 @@ Neste repositório você encontrará exercícios e atividades realizadas em **C*
 | :--- | :--- | :--- |
 | **1** | Fundamentos de Entrada e Saída. | Completo |
 | **2** | Processamentos e Cálculos. | Completo |
-| **3** | Estruturas Condicionais. | Incompleto |
+| **3** | Estruturas Condicionais. | Completo |
 | **4** | Laços de Repetição. | Incompleto |
 | **5** | Manipulação de Strings. | Completo |
 | **6** | Vetores e Matrizes. | Incompleto |
